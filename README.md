@@ -1,1 +1,1 @@
-# JavaScript_curso
+# trying to learn Js and not die trying
